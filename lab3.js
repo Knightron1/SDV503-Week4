@@ -1,5 +1,5 @@
 
- const mark = 100;
+ const mark = 89;
     switch (mark){
 
         case (100>=mark>=85):
