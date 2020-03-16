@@ -87,7 +87,7 @@ switch (foo) {
 
 const year = 1990
 switch (year) {
-    case 1990: {
+    case year: {
         let year = 1990;
         console.log(2020-year)
     }
