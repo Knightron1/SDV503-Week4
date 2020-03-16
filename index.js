@@ -21,27 +21,27 @@ if (dex){
 }
 else console.log ("too slow");
 
-const person = 'Mary Jane';
-switch (person) {
-  case 'Jane':
-    console.log('Hi Jane');
-    break;
-  case 'John':
-    console.log('Hi John');
-    break;
-  case 'Joe':
-    console.log('Hi Joe');
-    break;
-  case 'Mary':
-    console.log('Hi Mary');
-    break;
-  case 'Mary Jane':
-    console.log('Hi MJ');
-    break;
-  default:
-    console.log('Hi');  //The Default is useful in case there is no value matching the input, as it will show a response even if there is no matching case
-    break;
-}
+// const person = 'Mary Jane';
+// switch (person) {
+//   case 'Jane':
+//     console.log('Hi Jane');
+//     break;
+//   case 'John':
+//     console.log('Hi John');
+//     break;
+//   case 'Joe':
+//     console.log('Hi Joe');
+//     break;
+//   case 'Mary':
+//     console.log('Hi Mary');
+//     break;
+//   case 'Mary Jane':
+//     console.log('Hi MJ');
+//     break;
+//   default:
+//     console.log('Hi');  //The Default is useful in case there is no value matching the input, as it will show a response even if there is no matching case
+//     break;
+// }
 
 // const foo = -3;
 // switch (foo) {
@@ -118,3 +118,5 @@ switch (year) {
     }
 }
 console.log(2020-year)
+
+

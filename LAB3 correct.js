@@ -59,3 +59,5 @@ switch (grade) {
     default:
        console.log("please write a number from 0 to 100")
 }
+
+// Through the power of peer coding (all Jiyoung) this code was designed and run with ease
