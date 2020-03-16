@@ -84,3 +84,37 @@ switch (foo) {
   default:
     console.log('Please pick a number from 0 to 5!');
 }   
+
+const year = 1990
+switch (year) {
+    case 1990: {
+        let year = 1990;
+        console.log(2020-year)
+    }
+    break;
+    case 1991: {
+        let year = 1991;
+        console.log(2020-year)
+    }
+    break;
+    case 1992: {
+        let year = 1992;
+        console.log(2020-year)
+    }
+    break;
+    case 1993: {
+        let year = 1993;
+        console.log(2020-year)
+    }
+    break;
+    case 1994: {
+        let year = 1994;
+        console.log(2020-year)
+    }
+    break;
+    case 1995: {
+        let year = 1995;
+        console.log(2020-year)
+    }
+}
+console.log(2020-year)
